@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.poly</groupId>
-  <artifactId>ntkaln</artifactId>
-  <version>1.1</version>
+  <artifactId>ntkalv</artifactId>
+  <version>1.0</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -38,7 +38,7 @@
     <dependency>
       <groupId>com.github.jiuzehk</groupId>
       <artifactId>ntkifs</artifactId>
-      <version>1.2</version>
+      <version>1.1</version>
     </dependency>
   </dependencies>
 </project>
