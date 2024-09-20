@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.poly</groupId>
   <artifactId>ntkaln</artifactId>
-  <version>1.7</version>
+  <version>1.6</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -30,10 +30,6 @@
         </repository>
     </repositories>
   <dependencies>
-	<dependency>
-      <groupId>com.applovin</groupId>
-      <artifactId>applovin-sdk</artifactId>
-      <version>12.5.0</version>
-    </dependency>
+
   </dependencies>
 </project>
